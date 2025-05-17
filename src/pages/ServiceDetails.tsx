@@ -186,7 +186,7 @@ export default function ServiceDetails() {
 
             {/* Botão sempre logo abaixo do carrossel */}
             <a
-              href="https://wa.link/kdan4s"
+              href="https://wa.link/fu164r"
               target="_blank"
               rel="noopener noreferrer"
               className="mb-8 inline-block px-8 py-4 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors duration-300 text-lg font-semibold text-center"

@@ -15,7 +15,7 @@ export default function Contact() {
 
         <div className="mt-20 flex flex-col items-center">
           <a
-              href="https://wa.link/kdan4s"
+              href="https://wa.link/fu164r"
               target="_blank"
               rel="noopener noreferrer"
               className="mb-8 inline-block px-8 py-4 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors duration-300 text-lg font-semibold text-center"
@@ -30,7 +30,7 @@ export default function Contact() {
                 WhatsApp
               </h3>
               <p className="mt-2 text-base text-gray-600">
-                <a href="https://wa.link/kdan4s" className="hover:text-blue-600 transition-colors">(19) 98726-4177</a>
+                <a href="https://wa.link/fu164r" className="hover:text-blue-600 transition-colors">(19) 98726-4177</a>
               </p>
             </div>
             <div>
